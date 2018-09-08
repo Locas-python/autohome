@@ -1,6 +1,6 @@
-# 题目
+# 目标
 
-测试题目：请采集汽车之家网站上-本田 CR-V的所有车主评论。
+采集汽车之家网站上-本田 CR-V的所有车主评论。
 
 # 文件
 ![](https://github.com/Locas-python/autohome/blob/master/readme_pic/doc.png)
