@@ -1,0 +1,354 @@
+       {'actualOilConsumption': ['9.1'],
+ 'apperanceScene': [{'feeling': '外观大气 看着上档次无论是从远处看还是从近处看都耐看 车灯设计看着很犀利 '
+                                '全车LED灯看着时尚',
+                     'feelingid': 8,
+                     'feelingname': '外观',
+                     'photos': [],
+                     'scenes': [],
+                     'score': 5,
+                     'videos': []}],
+ 'batteryScene': [{'feeling': '',
+                   'feelingid': 0,
+                   'feelingname': '',
+                   'photos': [],
+                   'scenes': [],
+                   'score': 0,
+                   'videos': []}],
+ 'bestScene': [{'feeling': '首先满意的就是提速 无论是低速超车还是高速超车 都给人足够的信心和力量 然后就是操控了 '
+                           '底盘调教很好高速过弯（60-70迈）几乎没有侧倾感 过减速带只要把轮胎气压控制好 过滤的还是很不错的 '
+                           '其次就是本田汽车的高科技产品了 当初买尊耀版就是看好它的盲区监测 车道偏离预警 '
+                           '和主动刹车系统和自适应巡航系统 现在看来选择这些配置真值 '
+                           '主要和大家分享一下主动刹车系统和自适应巡航系统 在市区有一次印象最深就是旁边小车刮蹭事故 '
+                           '只顾扭头看别人了……系统突然给我来了个刹车 定眼一看不到30公分距离有行人横穿马路 '
+                           '呵呵如果不是因为主动刹车系统后果可想而知了……最后要说的就是自适应巡航系统了，我拆迁安置在外地 '
+                           '但一直生活在老家城市 每次回家都要开好几个小时的高速 有了自适应巡航模式 回家很轻松了……',
+                'feelingid': 0,
+                'feelingname': '最满意',
+                'photos': [],
+                'scenes': [],
+                'score': 0,
+                'videos': []}],
+ 'boughtAddress': ['湖北 | 东风本田十堰俊雷4S店'],
+ 'boughtPrice': ['24.98'],
+ 'boughtdate': ['2018-02'],
+ 'comfortablenessScene': [{'feeling': '悬架调校稍微有点颠 在4s店放点气压后过滤的很好了 底盘有小石子打过来听觉清晰 '
+                                      '估计隔音不好',
+                           'feelingid': 7,
+                           'feelingname': '舒适性',
+                           'photos': [],
+                           'scenes': [],
+                           'score': 5,
+                           'videos': []}],
+ 'commentcount': [19],
+ 'costefficientScene': [{'feeling': '预算20万以上25万以下 当时只有这么多钱 性价比能接受 '
+                                    '价钱在低的话就显示不出这车的地位和身份了……当初买这车一方面是保有量大 '
+                                    '另一方面也是朋友介绍 保值率高 再加上自己也开过一段crv感觉这车确实不错 可靠性 '
+                                    '耐操性 但后来考虑到超出预算范围 一直没有下手 后来老婆大力支持说不能买后悔车 '
+                                    '心狠点 钱不够大不了借点钱也要把中意的车提回来 最后一狠心元月十号去定的车 '
+                                    '并且不加价 说25号车能回来 然后就是漫长的等待时间 没过几天机油门事件爆发 '
+                                    '这下搅的人心惶惶的 都有点后怕……终于迎来了提车的日子 4s店打电话叫去提车 '
+                                    '在这我要说出我自己的心声。（电话打来后我首先想到的就是机油门事件 现在还没解决 '
+                                    '不能提车 要拖着 后来一直打电话催我去提车 我就一直找理由 找借口 反正就是不提 '
+                                    '最后4s店说你不提车我要卖给别人了 我一听马上答应了 '
+                                    '紧接着就问那我想到2月份以后提车有车吗？给出的答复是一定有 我直接说了句 好 '
+                                    '一定去提 就这样把机油门事件往后推了一下 为后续事件赢得一定时间 看能否给出答案 '
+                                    '最后我的推脱是有成果的 '
+                                    '后来本田总部给出解决方案……）又到了提车的日子了，这会是满血复活 '
+                                    '带着老婆大人岳父一起去提的车 确认过眼神 我遇上了对的车 终于把你娶回家 '
+                                    '选择了本田 我从不后悔',
+                         'feelingid': 15,
+                         'feelingname': '性价比',
+                         'photos': [],
+                         'scenes': [],
+                         'score': 4,
+                         'videos': []}],
+ 'drivekilometer': [6500.0],
+ 'eid': [2033447],
+ 'helpfulcount': [25],
+ 'internalScene': [{'feeling': '内饰设计风格简洁大气上档次 体现了顶配车型独有的风格和设计 仪表盘显示丰富 应有尽有 '
+                               '异响方面因为是新车 还没有任何声音 朋友的新款猎豹开了不到一个月就出现了天窗异响 '
+                               '所以说本田还是可靠的',
+                    'feelingid': 9,
+                    'feelingname': '内饰',
+                    'photos': [],
+                    'scenes': [],
+                    'score': 5,
+                    'videos': []}],
+ 'lastEdit': ['2018-05-20'],
+ 'maneuverabilityScene': [{'feeling': '指向精准 高速方向沉稳新车还没舍得去跑泥巴路 没体验过烂路 '
+                                      '山路的话过弯很有信心 底盘调教的很好过大山包很舒适',
+                           'feelingid': 5,
+                           'feelingname': '操控',
+                           'photos': [],
+                           'scenes': [],
+                           'score': 5,
+                           'videos': []}],
+ 'medal': [1],
+ 'oilScene': [{'feeling': '目前跑了6500公里了 首保刚过 百分之八十在市区跑 目前油耗9.1个油 '
+                          '加满一箱油可持续续航差不多600公里 跑长途很有信心',
+               'feelingid': 6,
+               'feelingname': '油耗',
+               'photos': [],
+               'scenes': [],
+               'score': 5,
+               'videos': []}],
+ 'otherScene': [{'feeling': '',
+                 'feelingid': 0,
+                 'feelingname': '其它描述',
+                 'photos': [],
+                 'scenes': [],
+                 'score': 0,
+                 'videos': []}],
+ 'powerScene': [{'feeling': '发动机提速快 一点都感觉不到它是个小排量的发动机 跟我朋友的2.0T比起来一点都不差 只要舍得给油 '
+                            '那速度那动作随心所欲',
+                 'feelingid': 4,
+                 'feelingname': '动力',
+                 'photos': [{'description': '心脏不错193马力 142千瓦 243牛米',
+                             'height': 525,
+                             'key': 'koubeidfs/g1/M09/11/3F/autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                             'source': 'https://k3.autoimg.cn/koubeidfs/g1/M09/11/3F/700x900_1_q87_autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                             'url': 'https://k3.autoimg.cn/koubeidfs/g1/M09/11/3F/480x640_1_q87_autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                             'width': 700}],
+                 'scenes': [],
+                 'score': 5,
+                 'videos': []}],
+ 'reasonScene': [{'feeling': '选择这车最大的理由是国人所追求 逛汽车之家已有5年多了 '
+                             'crv无论是从质量上和销量上都是屈指可数的 还有一个买这车很理由的就是crv保值率很高 '
+                             '朋友的2010款crv开了20多万公里了 居然卖了差不多10万元人民币……（具体9万6千元 '
+                             '）凭心而论 绝无半点谎言',
+                  'feelingid': 0,
+                  'feelingname': '选择这款车的理由',
+                  'photos': [],
+                  'scenes': [],
+                  'score': 0,
+                  'videos': []}],
+ 'spaceScene': [{'feeling': '我一米七的个子坐着车感觉有点吼不住 因为我太瘦了 后排的话坐三个人简直搓搓有余 我经常后面坐四个人 '
+                            '都感觉刚好 后备箱空间空间在同级别里算是比较大的了 它分为上下两层 '
+                            '放最下面后备箱空间基本上是满足很多需求的 如果放上面一层的话后排座椅放倒跟后备箱是纯平的 '
+                            '躺两个成年人一点问题都没有',
+                 'feelingid': 3,
+                 'feelingname': '空间',
+                 'photos': [{'description': '这就是后排空间 最主要的是安全卡扣不隔屁股 坐着感觉很舒服',
+                             'height': 525,
+                             'key': 'koubeidfs/g1/M02/10/A7/autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                             'source': 'https://k2.autoimg.cn/koubeidfs/g1/M02/10/A7/700x900_1_q87_autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                             'url': 'https://k2.autoimg.cn/koubeidfs/g1/M02/10/A7/480x640_1_q87_autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                             'width': 700},
+                            {'description': '多功能方向盘 无敌 该有的都在上面',
+                             'height': 525,
+                             'key': 'koubeidfs/g1/M07/11/3F/autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                             'source': 'https://k3.autoimg.cn/koubeidfs/g1/M07/11/3F/700x900_1_q87_autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                             'url': 'https://k3.autoimg.cn/koubeidfs/g1/M07/11/3F/480x640_1_q87_autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                             'width': 700},
+                            {'description': '前排座位和空间看着很大气 这内饰只有尊耀版独有的',
+                             'height': 525,
+                             'key': 'koubeidfs/g1/M09/10/A7/autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                             'source': 'https://k2.autoimg.cn/koubeidfs/g1/M09/10/A7/700x900_1_q87_autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                             'url': 'https://k2.autoimg.cn/koubeidfs/g1/M09/10/A7/480x640_1_q87_autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                             'width': 700}],
+                 'scenes': [],
+                 'score': 5,
+                 'videos': []}],
+ 'specname': ['2017款 240TURBO CVT四驱尊耀版'],
+ 'userId': [24732058],
+ 'userName': ['人生太虚伪'],
+ 'visitcount': [53801],
+ 'worstScene': [{'feeling': '没有什么不满意的 如果非要说那就是噪音了 不过比起我的第一辆车奇瑞强了很多了 。低俗的话基本没有 '
+                            '高速只要发动机转速控制在2000转 噪音还是能接受的',
+                 'feelingid': 0,
+                 'feelingname': '最不满意',
+                 'photos': [],
+                 'scenes': [],
+                 'score': 0,
+                 'videos': []}]}
+                 
+       
+
+------------------------------------------------------
+
+    经过 TakeFirst() 处理后
+
+{'actualOilConsumption': '9.1',
+ 'apperanceScene': {'feeling': '外观大气 看着上档次无论是从远处看还是从近处看都耐看 车灯设计看着很犀利 '
+                               '全车LED灯看着时尚',
+                    'feelingid': 8,
+                    'feelingname': '外观',
+                    'photos': [],
+                    'scenes': [],
+                    'score': 5,
+                    'videos': []},
+ 'batteryScene': {'feeling': '',
+                  'feelingid': 0,
+                  'feelingname': '',
+                  'photos': [],
+                  'scenes': [],
+                  'score': 0,
+                  'videos': []},
+ 'bestScene': {'feeling': '首先满意的就是提速 无论是低速超车还是高速超车 都给人足够的信心和力量 然后就是操控了 '
+                          '底盘调教很好高速过弯（60-70迈）几乎没有侧倾感 过减速带只要把轮胎气压控制好 过滤的还是很不错的 '
+                          '其次就是本田汽车的高科技产品了 当初买尊耀版就是看好它的盲区监测 车道偏离预警 '
+                          '和主动刹车系统和自适应巡航系统 现在看来选择这些配置真值 '
+                          '主要和大家分享一下主动刹车系统和自适应巡航系统 在市区有一次印象最深就是旁边小车刮蹭事故 '
+                          '只顾扭头看别人了……系统突然给我来了个刹车 定眼一看不到30公分距离有行人横穿马路 '
+                          '呵呵如果不是因为主动刹车系统后果可想而知了……最后要说的就是自适应巡航系统了，我拆迁安置在外地 '
+                          '但一直生活在老家城市 每次回家都要开好几个小时的高速 有了自适应巡航模式 回家很轻松了……',
+               'feelingid': 0,
+               'feelingname': '最满意',
+               'photos': [],
+               'scenes': [],
+               'score': 0,
+               'videos': []},
+ 'boughtAddress': '湖北 | 东风本田十堰俊雷4S店',
+ 'boughtPrice': '24.98',
+ 'boughtdate': '2018-02',
+ 'comfortablenessScene': {'feeling': '悬架调校稍微有点颠 在4s店放点气压后过滤的很好了 底盘有小石子打过来听觉清晰 '
+                                     '估计隔音不好',
+                          'feelingid': 7,
+                          'feelingname': '舒适性',
+                          'photos': [],
+                          'scenes': [],
+                          'score': 5,
+                          'videos': []},
+ 'commentcount': 19,
+ 'costefficientScene': {'feeling': '预算20万以上25万以下 当时只有这么多钱 性价比能接受 '
+                                   '价钱在低的话就显示不出这车的地位和身份了……当初买这车一方面是保有量大 '
+                                   '另一方面也是朋友介绍 保值率高 再加上自己也开过一段crv感觉这车确实不错 可靠性 '
+                                   '耐操性 但后来考虑到超出预算范围 一直没有下手 后来老婆大力支持说不能买后悔车 '
+                                   '心狠点 钱不够大不了借点钱也要把中意的车提回来 最后一狠心元月十号去定的车 '
+                                   '并且不加价 说25号车能回来 然后就是漫长的等待时间 没过几天机油门事件爆发 '
+                                   '这下搅的人心惶惶的 都有点后怕……终于迎来了提车的日子 4s店打电话叫去提车 '
+                                   '在这我要说出我自己的心声。（电话打来后我首先想到的就是机油门事件 现在还没解决 '
+                                   '不能提车 要拖着 后来一直打电话催我去提车 我就一直找理由 找借口 反正就是不提 '
+                                   '最后4s店说你不提车我要卖给别人了 我一听马上答应了 '
+                                   '紧接着就问那我想到2月份以后提车有车吗？给出的答复是一定有 我直接说了句 好 '
+                                   '一定去提 就这样把机油门事件往后推了一下 为后续事件赢得一定时间 看能否给出答案 '
+                                   '最后我的推脱是有成果的 '
+                                   '后来本田总部给出解决方案……）又到了提车的日子了，这会是满血复活 '
+                                   '带着老婆大人岳父一起去提的车 确认过眼神 我遇上了对的车 终于把你娶回家 选择了本田 '
+                                   '我从不后悔',
+                        'feelingid': 15,
+                        'feelingname': '性价比',
+                        'photos': [],
+                        'scenes': [],
+                        'score': 4,
+                        'videos': []},
+ 'drivekilometer': 6500.0,
+ 'eid': 2033447,
+ 'helpfulcount': 25,
+ 'internalScene': {'feeling': '内饰设计风格简洁大气上档次 体现了顶配车型独有的风格和设计 仪表盘显示丰富 应有尽有 '
+                              '异响方面因为是新车 还没有任何声音 朋友的新款猎豹开了不到一个月就出现了天窗异响 '
+                              '所以说本田还是可靠的',
+                   'feelingid': 9,
+                   'feelingname': '内饰',
+                   'photos': [],
+                   'scenes': [],
+                   'score': 5,
+                   'videos': []},
+ 'lastEdit': '2018-05-20',
+ 'maneuverabilityScene': {'feeling': '指向精准 高速方向沉稳新车还没舍得去跑泥巴路 没体验过烂路 山路的话过弯很有信心 '
+                                     '底盘调教的很好过大山包很舒适',
+                          'feelingid': 5,
+                          'feelingname': '操控',
+                          'photos': [],
+                          'scenes': [],
+                          'score': 5,
+                          'videos': []},
+ 'medal': 1,
+ 'oilScene': {'feeling': '目前跑了6500公里了 首保刚过 百分之八十在市区跑 目前油耗9.1个油 '
+                         '加满一箱油可持续续航差不多600公里 跑长途很有信心',
+              'feelingid': 6,
+              'feelingname': '油耗',
+              'photos': [],
+              'scenes': [],
+              'score': 5,
+              'videos': []},
+ 'otherScene': {'feeling': '',
+                'feelingid': 0,
+                'feelingname': '其它描述',
+                'photos': [],
+                'scenes': [],
+                'score': 0,
+                'videos': []},
+ 'powerScene': {'feeling': '发动机提速快 一点都感觉不到它是个小排量的发动机 跟我朋友的2.0T比起来一点都不差 只要舍得给油 '
+                           '那速度那动作随心所欲',
+                'feelingid': 4,
+                'feelingname': '动力',
+                'photos': [{'description': '心脏不错193马力 142千瓦 243牛米',
+                            'height': 525,
+                            'key': 'koubeidfs/g1/M09/11/3F/autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                            'source': 'https://k3.autoimg.cn/koubeidfs/g1/M09/11/3F/700x900_1_q87_autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                            'url': 'https://k3.autoimg.cn/koubeidfs/g1/M09/11/3F/480x640_1_q87_autohomecar__ChcCQ1sA-R6AaxFWAAF3brYE5ks92..jpg',
+                            'width': 700}],
+                'scenes': [],
+                'score': 5,
+                'videos': []},
+ 'reasonScene': {'feeling': '选择这车最大的理由是国人所追求 逛汽车之家已有5年多了 crv无论是从质量上和销量上都是屈指可数的 '
+                            '还有一个买这车很理由的就是crv保值率很高 朋友的2010款crv开了20多万公里了 '
+                            '居然卖了差不多10万元人民币……（具体9万6千元 ）凭心而论 绝无半点谎言',
+                 'feelingid': 0,
+                 'feelingname': '选择这款车的理由',
+                 'photos': [],
+                 'scenes': [],
+                 'score': 0,
+                 'videos': []},
+ 'spaceScene': {'feeling': '我一米七的个子坐着车感觉有点吼不住 因为我太瘦了 后排的话坐三个人简直搓搓有余 我经常后面坐四个人 '
+                           '都感觉刚好 后备箱空间空间在同级别里算是比较大的了 它分为上下两层 '
+                           '放最下面后备箱空间基本上是满足很多需求的 如果放上面一层的话后排座椅放倒跟后备箱是纯平的 '
+                           '躺两个成年人一点问题都没有',
+                'feelingid': 3,
+                'feelingname': '空间',
+                'photos': [{'description': '这就是后排空间 最主要的是安全卡扣不隔屁股 坐着感觉很舒服',
+                            'height': 525,
+                            'key': 'koubeidfs/g1/M02/10/A7/autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                            'source': 'https://k2.autoimg.cn/koubeidfs/g1/M02/10/A7/700x900_1_q87_autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                            'url': 'https://k2.autoimg.cn/koubeidfs/g1/M02/10/A7/480x640_1_q87_autohomecar__wKgHFVsA-RuAT6W5AAEocz6PqWI20..jpg',
+                            'width': 700},
+                           {'description': '多功能方向盘 无敌 该有的都在上面',
+                            'height': 525,
+                            'key': 'koubeidfs/g1/M07/11/3F/autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                            'source': 'https://k3.autoimg.cn/koubeidfs/g1/M07/11/3F/700x900_1_q87_autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                            'url': 'https://k3.autoimg.cn/koubeidfs/g1/M07/11/3F/480x640_1_q87_autohomecar__ChcCQ1sA-RyAD-QQAAEwS3rhmcs60..jpg',
+                            'width': 700},
+                           {'description': '前排座位和空间看着很大气 这内饰只有尊耀版独有的',
+                            'height': 525,
+                            'key': 'koubeidfs/g1/M09/10/A7/autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                            'source': 'https://k2.autoimg.cn/koubeidfs/g1/M09/10/A7/700x900_1_q87_autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                            'url': 'https://k2.autoimg.cn/koubeidfs/g1/M09/10/A7/480x640_1_q87_autohomecar__wKgHFVsA-RyAV5m2AAE_PreaA2s22..jpg',
+                            'width': 700}],
+                'scenes': [],
+                'score': 5,
+                'videos': []},
+ 'specname': '2017款 240TURBO CVT四驱尊耀版',
+ 'userId': 24732058,
+ 'userName': '人生太虚伪',
+ 'visitcount': 53801,
+ 'worstScene': {'feeling': '没有什么不满意的 如果非要说那就是噪音了 不过比起我的第一辆车奇瑞强了很多了 。低俗的话基本没有 '
+                           '高速只要发动机转速控制在2000转 噪音还是能接受的',
+                'feelingid': 0,
+                'feelingname': '最不满意',
+                'photos': [],
+                'scenes': [],
+                'score': 0,
+                'videos': []}}
+       
+        # 收集基本信息 base
+        item_loader.add_value('eid', data.get('eid'))
+        item_loader.add_value('userId', data.get('userId'))
+        item_loader.add_value('userName', data.get('userName'))
+        item_loader.add_value('summary', data.get('summary'))
+        item_loader.add_value('lastEdit', data.get('lastEdit'))
+        item_loader.add_value('medal', data.get('medal'))
+        item_loader.add_value('visitcount',  data.get('visitcount'))
+        item_loader.add_value('helpfulcount', data.get('helpfulcount'))
+        item_loader.add_value('commentcount', data.get('commentcount'))
+
+        # 收集汽车相关信息 car
+        item_loader.add_value('specname', ('specname', data.get('specname')))
+        item_loader.add_value('boughtAddress', ('boughtAddress', data.get('boughtAddress')))
+        item_loader.add_value('boughtPrice', ('boughtPrice', data.get('boughtPrice')))
+        item_loader.add_value('drivekilometer', ('drivekilometer', data.get('drivekilometer')))
+        item_loader.add_value('boughtdate', ('boughtdate', data.get('boughtdate')))
+        item_loader.add_value('car', ('actualOilConsumption', data.get('actualOilConsumption')))
+
+        # 收集满意度 feeling
+        item_loader.add_value('feeling', ('bestScene'))
