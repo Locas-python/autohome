@@ -259,7 +259,7 @@ MongodbPipeline
 
 ## setings.py
 
-    # json 接口的链接本来就满意 rebot.txt
+    # json 接口的链接本来就没有 rebots.txt
     ROBOTSTXT_OBEY = False
 
 ---
