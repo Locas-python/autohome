@@ -3,7 +3,7 @@
 测试题目：请采集汽车之家网站上-本田 CR-V的所有车主评论。
 
 # 文件
-![](readme_pic\doc.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/doc.png)
 
 
 # 选择数据来源
@@ -20,18 +20,18 @@
 
 可以发现评论的完整内容在另一页;
 
-!["评论的完整链接在另一页"](readme_pic\pc-1.png)
+!["评论的完整链接在另一页"](https://github.com/Locas-python/autohome/blob/master/readme_pic/pc-1.png)
 
 
 查看评论完整内容：结果是有些字符无法直接获取
-![](readme_pic\pc-2.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/pc-2.png)
 
 
 ---
 
 再看看手机端，同样无法获取完整的内容
 
-![](readme_pic\mobile-1.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/mobile-1.png)
 
 
 ---
@@ -43,11 +43,11 @@
 
 启动 fiddler，通过关键字搜索，很快得到请求接口
 
-![](readme_pic\client-1.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-1.png)
 
 返回 json 格式的数据
 
-![](readme_pic\client-2.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-2.png)
 
 ---
 
@@ -55,9 +55,9 @@
 
 多抓几个请求，对比请求数据
 
-![](readme_pic\client-3.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-3.png)
 
-![](readme_pic\client-4.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-4.png)
 
 初步判断：
 
@@ -68,13 +68,13 @@
 
 把 url 复制到浏览器，居然可以请求到数据
 
-![](readme_pic\client-5.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-5.png)
 
 再看看 json内容，可以判断出 url 中的参数：
 * `p` 对应 `pageindex`
 * `s` 对应 `pagesize`
 
-![](readme_pic\client-6.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-6.png)
 
 再请求其他页面，验证确实时这样的; **就决定通过客户端获取数据了**
 
@@ -83,13 +83,13 @@
 
 在客户端中查看完整评论，抓包; 得到完整评论的接口
 
-![](readme_pic\client-8.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-8.png)
 
 关键就是参数 `eid` 的值，从上一个接口查找，得到
 
 就是参数 `Koubeiid` 的值了！
 
-![](readme_pic\client-9.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-9.png)
 
 
 
@@ -103,7 +103,7 @@
 
 从 json 中返回的数据来看，只需请求30（获取koubeiid） + 594 (完整评论) = 624 次即可:
 
-![](readme_pic\client-7.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/client-7.png)
 
 
 虽然请求的次数不多，对速度没有要求；当时，评论中既有文字又有图片，结构页不统一，**还是选择容错力好的框架 Scrapy**
@@ -115,8 +115,8 @@
 
 ## 基本信息  base
 
-![](readme_pic\data-1.png)
-![](readme_pic\data-2.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/data-1.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/data-2.png)
 
 * `eid=2175582` 标识评论
 * `userId=77555628`
@@ -154,8 +154,8 @@
 
 `feelingname` 是中文翻译
 
-![](readme_pic\data-3.png)
-![](readme_pic\data-4.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/data-3.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/data-4.png)
 
 * `spaceScene` 空间
 * `powerScene` 动力
@@ -189,16 +189,16 @@
 
 爬虫运行结果
 
-![](readme_pic/result-1.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/result-1.png)
 
 写入数据库的评论数
 
-![](readme_pic/result-2.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/result-2.png)
 
 
 ## 爬虫说明
 
-![](readme_pic/spider-1.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/spider-1.png)
 
 
 ## 对数据进行清洗 pipelines.py
@@ -207,7 +207,7 @@
 
 medalPipeline
 
-![](readme_pic/spider-2.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/spider-2.png)
 
 爬取下来的数字，将其转为对应的中文
 
@@ -216,12 +216,12 @@ medalPipeline
 CleanScenePipeline
 
 如果评论有图片，仅保留其中的 source, description
-![](readme_pic/spider-3.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/spider-3.png)
 
 
 
 对于每个评论(Scene)，仅保留 feeling, feelingname, photos, score
-![](readme_pic/spider-4.png)
+![](https://github.com/Locas-python/autohome/blob/master/readme_pic/spider-4.png)
 
 
 ---
